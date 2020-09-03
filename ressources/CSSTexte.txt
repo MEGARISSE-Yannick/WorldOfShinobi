@@ -1,0 +1,28 @@
+CSS
+
+Chiffres ressources :
+
+  font-size: 14px;
+  font-family: "Verdana";
+  color: rgb(14, 7, 0);
+  font-weight: bold;
+
+
+.bar_stat_num_nour, .bar_stat_num_metal, .bar_stat_num_bois, .bar_stat_num_roche {
+    font-size: 14px;
+  font-family: "Verdana";
+  color: rgb(14, 7, 0);
+  font-weight: bold;
+}
+.bar_stat_nour{
+    position: relative;
+    bottom: 40px;
+    right: 1000px;
+}
+.bar_stat_num_nour{
+    position: relative;
+    bottom: 80px;
+    left: 230px;
+
+}
+

@@ -1,0 +1,285 @@
+
+.CadreProfil{
+    z-index: 1;
+    margin-top: -40px;
+
+}
+.menuTop{
+    position: relative;
+    margin-top: -2210px;   
+    left: 258px;
+ z-index: 2;
+
+}
+
+.menu_principal{
+    position: relative;
+    display: flex;
+    align-content: wrap;
+    list-style: none;
+    margin-top: -113px;
+    right: 28px;
+}
+
+.stats{
+    position: relative;
+    margin-top: -153px;   
+    left: 1100px;
+    z-index: 2;
+}
+.Nom_utilisateur{
+    position: relative;
+    left: 145px;
+
+    font-size: 16px;
+  font-family: "Verdana";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  margin-top: -140px;   
+}
+.stats_complete{
+    position: relative;
+
+    list-style: none;
+    font-size: 12px;
+    font-family: "Verdana";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.stats_chiffres{
+    position: relative;
+    margin-top: -70px;   
+    right: 1670px;
+    text-align:right;
+    list-style: none;
+    font-size: 12px;
+    font-family: "Verdana";
+    color: rgb(255, 255, 255);
+}
+.bar_stat{
+    position: relative;
+    top: 50px;    
+    left: 250px;
+    z-index: 2;
+
+}
+.bar_stat_num_nour, .bar_stat_num_metal, .bar_stat_num_bois, .bar_stat_num_roche {
+    font-size: 14px;
+  font-family: "Verdana";
+  color: rgb(14, 7, 0);
+  font-weight: bold;
+  z-index: 3;
+
+}
+.bar_stat_nour{
+    position: relative;
+    bottom: 40px;
+    right: 1000px;
+    z-index: 3;
+
+}
+.bar_stat_num_nour{
+    position: relative;
+    bottom: 80px;
+    left: 230px;
+    z-index: 3;
+
+}
+.bar_stat_metal{
+    position: relative;
+    bottom: 120px;
+    left: 400px;
+    z-index: 3;
+
+}
+.bar_stat_num_metal{
+    position: relative;
+    bottom: 160px;
+    left: 450px;
+    z-index: 3;
+}
+.bar_stat_bois{
+    position: relative;
+    bottom: 198px;
+    left: 630px;
+    z-index: 3;
+
+}
+.bar_stat_num_bois{
+    position: relative;
+    bottom: 238px;
+    left: 680px;
+    z-index: 3;
+}
+
+.bar_stat_roche{
+    position: relative;
+    bottom: 280px;
+    left: 840px;
+    z-index: 3;
+
+}
+.bar_stat_num_roche{
+    position: relative;
+    bottom: 320px;
+    left: 890px;
+    z-index: 3;
+}
+.info{
+    position: relative;
+    bottom: 290px;
+    left: 550px;
+}
+.fond_info_nom, .fond_info_time{
+    font-size: 16px;
+    font-family: "Verdana";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.fond_info_nom{
+    position: relative;
+    bottom: 70px;
+    left: 200px;
+
+}
+.fond_info_time{
+    position: relative;
+    bottom: 103px;
+    left: 300px;
+
+}
+
+.fenetre_vue_globale{
+    position: relative;
+    bottom: 387px;
+    left: 240px;
+}
+.titre_fenetre_vue_globale{
+    font-size: 26px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    position: relative;
+    bottom: 920px;
+    left: 260px;
+}
+.titre_fenetre_chantier{
+    font-size: 26px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    position: relative;
+    bottom: 340px;
+    left: 5px;
+}
+.fenetre_bureau{
+    position: relative;
+    bottom: 737px;
+    left: 485px;
+}
+.titre_fenetre_bureau{
+    font-size: 26px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    position: relative;
+    bottom: 1107px;
+    left: 670px; 
+}
+.fenetre_clan{
+    position: relative;
+    bottom: 1537px;
+    left: 970px;
+}
+.titre_fenetre_clan{
+    font-size: 26px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    position: relative;
+    bottom: 217px;
+    left: 200px;  
+}
+.clan_barre{
+    position: relative;
+    bottom: 290px;
+    left: 50px;
+}
+.clan_barre_xp{
+    position: relative;
+    bottom: 302px;
+    right: 287px;
+}
+
+
+.image{
+    height: 50px;
+    width: 50px;
+    color: grey;
+    background-color: grey;
+    position: relative;
+    bottom: 210px;
+    left: 80px;
+}
+.clan_nom{
+    font-size: 16px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    position: relative;
+    bottom: 285px;
+    left: 150px;
+}
+
+.clan_niv_rang{
+    font-size: 16px;
+    font-family: "Verdana";
+    color: rgb(32, 26, 22);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+}
+.xp{
+    font-size: 14px;
+    font-family: "Verdana";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    position: relative;
+    bottom:344px;
+    left: 100px;
+}
+.fenetre_production{
+    position: relative;
+    bottom: 1850px;
+    left: 970px;
+}
+.nbrG{
+  font-size: 16px;
+  font-family: "Verdana";
+  color: rgb(32, 26, 22);
+}
+.nbr_vert{
+  font-size: 16px;
+  font-family: "Verdana";
+  color: rgb(29, 96, 0);
+}
+.nbr_rouge{
+ font-size: 16px;
+  font-family: "Verdana";
+  color: rgb(213, 0, 0);
+
+}
+ .nbr_total{
+     font-size: 16px;
+  font-family: "Verdana";
+  color: rgb(32, 26, 22);
+  font-weight: bold;
+ }
+  
